@@ -1,6 +1,6 @@
 # 📊 Smart Finance Hub
 
-**Smart Finance Hub** is a Streamlit dashboard that turns financial data into insights. You can explore stock market crashes, receive mutual fund suggestions, and (soon) simulate portfolio optimization.
+**Smart Finance Hub** is a Streamlit dashboard that turns financial data into insights. You can explore stock market crashes, receive mutual fund suggestions, and more features soon.
 
 ---
 
