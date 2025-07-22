@@ -33,7 +33,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/smart-finance-hub.git
+git clone https://github.com/manchow23/Smart-Finance-Hub
 
 # Move into the folder
 cd smart-finance-hub
